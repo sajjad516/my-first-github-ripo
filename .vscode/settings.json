@@ -1,0 +1,7 @@
+{
+    "editor.guides.indentation": true,
+    "editor.detectIndentation": true,
+    "editor.autoIndent": "full",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 80
+}
